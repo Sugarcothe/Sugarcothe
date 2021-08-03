@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Valentine</h1>
 <h3 align="center">I am a passionate fullstack/DevOps developer from Nigeria</h3>
 
+<<<<<<< HEAD
 <img src="./img/you.gif"/>
+=======
+<div align="center">
+  <img width="250" src="./img/this is better.gif"/>
+>>>>>>> 708b096a55201f232d3ea81f68c53db0840f8ea2
 
-- 👨‍💻 All of my projects are available at [http://icodetill.xyz](http://icodetill.xyz)
-
-- 📝 I regularly write articles on [https://ifeanyivalentine82.medium.com/](https://ifeanyivalentine82.medium.com/)
-
-- 📫 How to reach me **ifeanyivalentine82@gmail.com**
-
-- ⚡ Fun fact **I love water**
+ 👨‍💻 Portfolio: [icodetill.xyz](http://icodetill.xyz)
+ 📫 Email **ifeanyivalentine82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ifeanyichukwu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ifeanyichukwu" /></a></p><br><br>
+</div>
+
+
 
