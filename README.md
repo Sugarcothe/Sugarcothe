@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentine</h1>
 <h3 align="center">I am a passionate fullstack/DevOps developer from Nigeria</h3>
 
-<img src="./img/46207-programmer.gif"/>
+<img src="./img/this is better.gif"/>
 
 - 👨‍💻 All of my projects are available at [http://icodetill.xyz](http://icodetill.xyz)
 
