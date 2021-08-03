@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Valentine</h1>
 <h3 align="center">I am a passionate fullstack/DevOps developer from Nigeria</h3>
 
-<<<<<<< HEAD
-<img src="./img/you.gif"/>
-=======
+
 <div align="center">
-  <img width="250" src="./img/this is better.gif"/>
->>>>>>> 708b096a55201f232d3ea81f68c53db0840f8ea2
+  <img width="250" background="#0D1117" src="./img/you.gif"/>
+
 
  👨‍💻 Portfolio: [icodetill.xyz](http://icodetill.xyz)
+  
  📫 Email **ifeanyivalentine82@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
