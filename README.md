@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img width="250" background="#0D1117" src="./img/you.gif"/>
+  <img width="250" border-radius="50%" background="#0D1117" src="./img/you.gif"/>
 
 
  👨‍💻 [Portfolio](http://icodetill.xyz)
