@@ -6,9 +6,9 @@
   <img width="250" background="#0D1117" src="./img/you.gif"/>
 
 
- 👨‍💻 Portfolio: [icodetill.xyz](http://icodetill.xyz)
+ 👨‍💻 [Portfolio](http://icodetill.xyz)
   
- 📫 Email **ifeanyivalentine82@gmail.com**
+ 📫 [Email](ifeanyivalentine82@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
