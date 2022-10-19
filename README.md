@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentine</h1>
-<h3 align="center">I am a passionate Fullstack/DevOps Engineer from Nigeria</h3>
+<h3 align="center">I am a passionate Backend/DevOps Engineer from Nigeria</h3>
 
 
 <div align="center">
@@ -7,8 +7,6 @@
 
 
  👨‍💻 [Portfolio](http://valentineeze.netlify.app/)
-  
- 📫 [Email](ifeanyivalentine82@gmail.com)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
