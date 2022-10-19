@@ -6,7 +6,7 @@
   <img width="250" border-radius="50%" background="#0D1117" src="./img/you.gif"/>
 
 
- 👨‍💻 [Portfolio](http://ifeanyieze.netlify.app/)
+ 👨‍💻 [Portfolio](http://valentineeze.netlify.app/)
   
  📫 [Email](ifeanyivalentine82@gmail.com)
 
