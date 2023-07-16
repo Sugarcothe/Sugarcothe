@@ -5,9 +5,9 @@
 ```txt
 From: 17 May 2020 - To: 14 July 2023
 
-Total Time: 1,414 hrs 9 mins
+Total Time: 4,414 hrs 9 mins
 
-JavaScript   916 hrs 7 mins  >>>>>>>>>>>>>>>>---------   64.78 %
+JavaScript   3916 hrs 7 mins  >>>>>>>>>>>>>>>>---------   64.78 %
 CSS          115 hrs 15 mins >>-----------------------   08.15 %
 HTML         106 hrs 22 mins >>-----------------------   07.52 %
 JSX          95 hrs 55 mins  >>-----------------------   06.78 %
